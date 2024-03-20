@@ -10,5 +10,5 @@ new class extends Component {
     <a href="/" wire:navigate>
         <x-icon name="o-paper-airplane" class="w-8 h-8" />
         paper
-    </a>
+    </a>321
 </span>
